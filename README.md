@@ -22,3 +22,6 @@ Here several helper functions are present to run parts of the main notebook. Mai
 
 # data
 This folder consists of the training and validation data which is basically the script for all episodes of 9 seasons of Seinfeld.
+
+# generated_script_1.txt
+This contains a sample script that was generated after running the code.
